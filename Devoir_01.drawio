@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AGqOmCTpdcGBPZAjZRS0-13" value="Animaux" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="30" width="577" height="157" as="geometry" />
+          <mxGeometry x="-280" y="30" width="577" height="157" as="geometry" />
         </mxCell>
         <mxCell id="AGqOmCTpdcGBPZAjZRS0-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#001DBC;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#0050ef;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=3;swimlaneFillColor=none;fontColor=#ffffff;" vertex="1" parent="AGqOmCTpdcGBPZAjZRS0-13">
           <mxGeometry y="30" width="577" height="30" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AGqOmCTpdcGBPZAjZRS0-55" value="Proprietaires" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="220" width="770" height="155" as="geometry" />
+          <mxGeometry x="-280" y="220" width="770" height="155" as="geometry" />
         </mxCell>
         <mxCell id="AGqOmCTpdcGBPZAjZRS0-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="AGqOmCTpdcGBPZAjZRS0-55">
           <mxGeometry y="30" width="770" height="30" as="geometry" />
